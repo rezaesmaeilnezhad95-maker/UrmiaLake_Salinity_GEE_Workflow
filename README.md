@@ -1,2 +1,2 @@
 # UrmiaLake_Salinity_GEE_Workflow
-Custom GEE scripts and computational workflow for spatiotemporal salinity and NDVI monitoring of Urmia Lake.
+Automated Google Earth Engine workflow for spatiotemporal salinity mapping using Random Forest and temporal transferability.
