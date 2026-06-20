@@ -35,6 +35,11 @@ To ensure reproducibility, execute the scripts **sequentially** in the GEE Code 
 *(Optional: If you add a sample CSV, mention it here. Otherwise, you can delete this section).*
 A subset of the ground-truth Electrical Conductivity (EC) sample data is provided in the `Sample_Data` folder to allow users to test the post-processing logic.
 
+## 👤 Corresponding Author
+**Dr. Reza Esmaeilnezhad, Kamran Zeinalzadeh**  
+Department of Water Engineering, Faculty of Agriculture, Urmia University, Urmia, Iran. 
+**Email:** reza.esmaeilnezhad95@gmail.com (R. Esmaeilnezhad), k.zeinalzadeh@urmia.ac.ir (K. Zeinalzadeh)
+
 ## 📚 Citation
 This workflow is associated with a manuscript currently under review. If you use this code or adapt this methodology, please cite as:
 > Esmaeilnezhad, R., et al. (2026). "Spatiotemporal Dynamics of Soil Salinity Driven by Lake Desiccation: Evidence from 38 Years of Monitoring Around Urmia Lake". *Manuscript under review*. [DOI will be added upon publication].
