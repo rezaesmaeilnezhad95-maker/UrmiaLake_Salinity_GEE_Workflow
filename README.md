@@ -1,5 +1,12 @@
 # Urmia Lake Salinity Mapping: GEE Computational Workflow
 
+Associated Manuscript:** "Spatiotemporal Dynamics of Soil Salinity Driven by Lake Desiccation: Evidence from 38 Years of Monitoring Around Urmia Lake"
+
+**Authors:** Reza Esmaeilnezhad, Kamran Zeinalzadeh*
+
+**Target Journal:** Catena 
+
+**Status:** Manuscript in preparation (2026)
 This repository contains the custom computational scripts and reproducible workflow developed for the spatiotemporal monitoring of salinity in Urmia Lake using Google Earth Engine (GEE) and Random Forest machine learning.
 
 ## 📜 Overview
