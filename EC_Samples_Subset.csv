@@ -1,0 +1,21 @@
+﻿Sample_id,Latitude,Longitude,EC (ds/m)_value,Salinity_class (landpro),Date,Source
+1,38.002,45.085,0.598,Non-saline,2023   September ,Field measurement
+2,37.379,45.191,1.01,Non-saline,2023   September ,Field measurement
+3,37.429,45.252,0.346,Non-saline,2023   September ,Field measurement
+4,37.381,45.202,0.974,Non-saline,2023   September ,Field measurement
+5,37.377,45.181,1.074,Non-saline,2023   September ,Field measurement
+6,37.692,45.23,35.764,Extremely saline,2023   September ,Field measurement
+7,37.723,45.239,78.269,Extremely saline,2023   September ,Field measurement
+8,37.713,45.229,70.168,Extremely saline,2023   September ,Field measurement
+9,37.697,45.235,12.067,Highly saline,2023   September ,Field measurement
+10,37.69,45.225,6.639,Moderately saline,2023   September ,Field measurement
+11,37.686,45.217,0.334,Non-saline,2023   September ,Field measurement
+12,37.738,45.213,2.288,Slightly saline,2023   September ,Field measurement
+13,37.78,45.56,13.36,Highly saline,2023   September ,Field measurement
+14,37.696,45.235,5.725,Moderately saline,2023   September ,Field measurement
+15,37.715,45.23,57.35,Extremely saline,2023   September ,Field measurement
+16,37.729,45.246,43.895,Extremely saline,2023   September ,Field measurement
+17,37.723,45.238,40.168,Extremely saline,2023   September ,Field measurement
+18,37.743,45.258,1.8,Non-saline,2023   September ,Field measurement
+19,37.722,45.223,1.639,Non-saline,2023   September ,Field measurement
+52,37.853,45.58,10.457,Highly saline,2023   September ,Field measurement
